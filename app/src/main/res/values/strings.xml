@@ -10,4 +10,14 @@
     <string name="signup_username">Username</string>
     <string name="sign_up">Sign Up</string>
     <string name="already_have_an_account">Already have an account?</string>
+    <string name="signup_email_error">Email is required.</string>
+    <string name="signup_invalid_email_error">Email is invalid.</string>
+    <string name="signup_username_error">Username is required.</string>
+    <string name="signup_username_too_short">Username is too short.</string>
+    <string name="signup_username_too_long">Username is too long.</string>
+    <string name="signup_username_can_only_include">Username can only include a–z, 0–9 and _ characters.</string>
+    <string name="signup_password_error">Password is required.</string>
+    <string name="signup_password_too_short">Password is too short.</string>
+    <string name="signup_password_too_long">Password is too long.</string>
+    <string name="signup_password_must_contain">Password must contain one digit, one uppercase letter, one lowercase letter and one special character.</string>
 </resources>
