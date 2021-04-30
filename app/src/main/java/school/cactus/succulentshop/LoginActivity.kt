@@ -23,6 +23,9 @@ class LoginActivity : AppCompatActivity() {
                 passwordInputLayout.validate()
                 identifierInputLayout.validate()
             }
+            createAccountButton.setOnClickListener {
+                //TODO: intent
+            }
         }
     }
 
